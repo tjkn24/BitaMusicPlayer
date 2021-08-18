@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/drawable/music_item_border.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15364583333333334" />
         <entry key="app/src/main/res/layout/activity_music_player.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/music_item.xml" value="0.2898148148148148" />
       </map>
     </option>
   </component>
